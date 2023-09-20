@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  en, ko, zh
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Teekey
+title:                 Janghun Kim
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -49,7 +49,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
+  - title:             Posts
     url:               /blog/
   - title:             Projects
     url:               /projects/

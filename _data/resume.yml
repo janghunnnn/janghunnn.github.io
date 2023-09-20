@@ -52,12 +52,6 @@ work:
 #     highlights:
 #       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "Busan-il Science High School"
-    #area: ""
-    studyType: "Early Graduation"
-    startDate: "2015-03-01"
-    endDate: "2017-02-01"
-    #gpa: ""    
   - institution: "University of Sungkyunkwan"
     area: "Computer Science and Engineering"
     studyType: "Bachelor"
@@ -85,26 +79,29 @@ publications:
     website: "https://dl.acm.org/doi/abs/10.1145/3592108"
     summary: "This paper presents the model and rendering algorithm of Potentially Visible Hidden Volumes (PVHVs) for multi-view image warping. PVHVs are 3D volumes that are occluded at a known source view, but potentially visible at novel views. Given a bound of novel views, we define PVHVs using the edges of foreground fragments from the known view and the bound of novel views. PVHVs can be used to batch-test the visibilities of source fragments without iterating individual novel views in multi-fragment rendering, and thereby, cull redundant fragments prior to warping. We realize the model of PVHVs in Depth Peeling (DP). Our Effective Depth Peeling (EDP) can reduce the number of completely hidden fragments, capture important fragments early, and reduce warping cost. We demonstrate the benefit of our PVHVs and EDP in terms of memory, quality, and performance in multi-view warping."
 skills:
-  - name: "Web Development"
+  - name: "C++ Application Development"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "C++"
+  - name: "Shader Programming"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "OpenGL"
+      - "GLSL"      
+  # - name: "Compression"
+  #   level: "Master"
+  #   keywords:
+  #     - "Mpeg"
+  #     - "MP4"
+  #     - "GIF"
+# languages:
+#   - language: "English"
+#     fluency: "Native speaker"
+# interests:
+#   - name: ""
+#     keywords:
+#       - "Ferrets"
+#       - "Unicorns"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
