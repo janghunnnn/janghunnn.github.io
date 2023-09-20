@@ -14,12 +14,12 @@ basics:
     현재는 성균관대학교에서 컴퓨터그래픽스 전공으로 석사과정을 진행 중에 있습니다. 학부는 성균관대학교 소프트웨어학과를 졸업하였습니다.
     저는 컴퓨터공학을 전공하면서 다른 칙칙한 코딩(제 기준)보다는 렌더링이 너무 재밌기도 하고 어려워서 더 좋았습니다. 특히, 수학적인 사고와 물리적인 현상에 대한 공부를 더 요구해서 딱 제 스타일이였습니다
 
-  location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+  # location:
+  #   address: "2712 Broadway St"
+  #   postalCode: "CA 94115"
+  #   city: "San Francisco"
+  #   countryCode: "US"
+  #   region: "California"
   profiles:
     - network: "Github"
       username: "janghunn"
@@ -28,19 +28,20 @@ basics:
       username: "janghunn"
       url: "https://www.linkedin.com/in/janghunn/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "University of Sungkyunkwan, CG Lab."
+    position: "Real-Time Graphics Research"
+    website: "http://cg.skku.edu/"
+    startDate: "2021-01-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      I majored in computer graphics and conducted research on Real-time rendering in University of Sungkyunkwan, CG Lab.
+
+      ACM SIGGRAPH, an International academic conference, approved one journal paper by the first author,
+      and KSC, a domestic academic conference, published one short paper by the first author
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - "(Journal Track) Potentially Visible Hidden-Volume Rendering for Multi-View Warping,
+        Janghun Kim and Sungkil Lee, ACM Trans. Graphics (Proc. SIGGRAPH’23)"
+      - "Keyword: Occlusion Culling, Visibility, Multi-Fragment Rendering, Geometric-based Inpainting Method"
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
