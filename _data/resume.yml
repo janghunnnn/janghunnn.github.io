@@ -8,9 +8,8 @@ basics:
   email: "teekey.kim@gmail.com"
   #phone: "(912) 555-4321"
   #website: "https://piedpiper.com"
-  summary: >
+  summary: |
     저는 현재 렌더링을 연구하고 공부하고 있는 예비 개발자입니다 :)
-
     
     현재는 성균관대학교에서 컴퓨터그래픽스 전공으로 석사과정을 진행 중에 있습니다. 학부는 성균관대학교 소프트웨어학과를 졸업하였습니다.
     저는 컴퓨터공학을 전공하면서 다른 칙칙한 코딩(제 기준)보다는 렌더링이 너무 재밌기도 하고 어려워서 더 좋았습니다. 특히, 수학적인 사고와 물리적인 현상에 대한 공부를 더 요구해서 딱 제 스타일이였습니다
@@ -34,7 +33,7 @@ work:
     website: "http://cg.skku.edu/"
     startDate: "2021-01-01"
     endDate: ""
-    summary: >
+    summary: |
       I majored in computer graphics and conducted research on Real-time rendering in University of Sungkyunkwan, CG Lab.
 
       ACM SIGGRAPH, an International academic conference, approved one journal paper by the first author,
@@ -43,15 +42,15 @@ work:
       - "(Journal Track) Potentially Visible Hidden-Volume Rendering for Multi-View Warping,
         Janghun Kim and Sungkil Lee, ACM Trans. Graphics (Proc. SIGGRAPH’23)"
       - "Keyword: Occlusion Culling, Visibility, Multi-Fragment Rendering, Geometric-based Inpainting Method"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
+# volunteer:
+#   - organization: "CoderDojo"
+#     position: "Teacher"
+#     website: "https://coderdojo.com/"
+#     startDate: "2012-01-01"
+#     endDate: "2013-01-01"
+#     summary: "Global movement of free coding clubs for young people."
+#     highlights:
+#       - "Awarded 'Teacher of the Month'"
 education:
   - institution: "University of Oklahoma"
     area: "Information Technology"
@@ -62,11 +61,11 @@ education:
     courses:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+# awards:
+#   - title: "Digital Compression Pioneer Award"
+#     date: "2014-11-01"
+#     awarder: "Techcrunch"
+#     summary: "There is no spoon."
 publications:
   - name: "Video compression for 3d media"
     publisher: "Hooli"
@@ -94,8 +93,8 @@ interests:
     keywords:
       - "Ferrets"
       - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
