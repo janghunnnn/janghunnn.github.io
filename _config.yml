@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Becoming an ordinary person
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Janghun Kim
+  email:               teekey.kim@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -53,10 +53,10 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Résumé*
+  - title:             Resume
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  # - title:             Documentation
+  #   url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
