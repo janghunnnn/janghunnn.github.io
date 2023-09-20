@@ -11,7 +11,7 @@ redirect_from:
 
 # About
 
-<!--author-->
+I’m a math/science enthusiast who prefers the beauty of rendered visuals over a plain black screen :)
 
 ## Hydejack
 
