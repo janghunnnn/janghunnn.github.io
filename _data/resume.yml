@@ -41,7 +41,7 @@ work:
       - "(Journal Track) Potentially Visible Hidden-Volume Rendering for Multi-View Warping,
         Janghun Kim and Sungkil Lee, ACM Trans. Graphics (Proc. SIGGRAPH’23)"
       - "Keyword: Occlusion Culling, Visibility, Multi-Fragment Rendering, Geometric-based Inpainting Method"
-  - company: "ETRI (한국전자통신연구원)"
+  - company: "SKKU, CG Lab. with ETRI (한국전자통신연구원)"
     position: "Rendering Quality Improvement"
     website: "http://cg.skku.edu/fund/"
     startDate: "2022-06-01"
