@@ -9,9 +9,23 @@ redirect_from:
   - /download/
 ---
 
-# About
+# 나를 설명하면
 
-I’m a math/science enthusiast who prefers the beauty of rendered visuals over a plain black screen :)
+나는 한번씩 수학 문제를 풀면서 집중을 하고 과학 기사를 읽으며 재미를 느낌.
+현재는 _Computer Graphics_ 에 재미를 느끼고 깊게 공부하고 싶은 생각
+
+> 꿈은 그냥 평범하게 사는거.
+{:.lead}
+
+## 개발자 인생
+ 
+* 2017년 2월 - 수학/과학만 좋아하고 그 외는 관심없던 나
+* 2017년 3월 - 어쩌다보니 컴퓨터공학을 전공..
+* 2021년 1월 - 군대갔다와서 '컴퓨터그래픽스'를 공부해고 싶은 마음에 연구실 지원 후 학부연구생 지원
+* 2022년 8월 - 학부 졸업 후 '컴퓨터그래픽스' 석사 전공
+* 2023년 8월 - 연구실 들어와서 2년 동안 준비한 나의 첫 논문이 성과를 얻음. (ACM Trans. Graphics (Proc. SIGGRAPH 2023))
+* _2023년 9월 - 개발자로서 너무나도 부족한 나이기에 한번 제대로 공부 시작._
+
 
 ## Hydejack
 
