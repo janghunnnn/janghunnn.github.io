@@ -26,8 +26,19 @@ redirect_from:
 * 2023년 8월 - 연구실 들어와서 2년 동안 준비한 나의 첫 논문이 성과를 얻음. (ACM Trans. Graphics (Proc. SIGGRAPH 2023))
 * _2023년 9월 - 개발자로서 너무나도 부족한 나이기에 한번 제대로 공부 시작._
 
+## 2023년 목표
 
-## Hydejack
+현재 나는 개발자로서 첫 걸음을 내딛고 있다고 생각한다.
+개발자로서의 나의 능력은 컴공 학부 졸이라고 말하기 부끄러울 정도.
+
+남은 세 달 동안 
+* 일단 붙은 _Pearl Abyss_ 게임 인전 테크인턴 잘 마무리하기
+* C++ 공부 (Effective C++, Effective Modern C++)
+* 석사 졸업 관련 행정 처리 하기 (OPIC, 학위논문)
+
+그래픽스 공부도 하고 싶지만 욕심 부리지 말고 내년에.
+
+<!-- ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
@@ -155,7 +166,7 @@ If you are using a different service like MailChimp, you can build a custom news
 
 Use the the form below to purchase Hydejack PRO:
 
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
+<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div> -->
 
 
 [blog]: /
