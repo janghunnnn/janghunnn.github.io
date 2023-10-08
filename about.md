@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# 김장훈? Janghun Kim? Teekey?
+## 김장훈? Janghun Kim? Teekey?
 
 나는 한번씩 수학 문제를 풀면서 집중을 하고 과학 기사를 읽으며 재미를 느낌.
 
